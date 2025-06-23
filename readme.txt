@@ -1,5 +1,5 @@
 === College Department Carousel ===
-Contributors: yourname
+Contributors: Selwyn
 Tags: carousel, slider, college, department, elementor
 Requires at least: 5.0
 Tested up to: 6.4
